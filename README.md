@@ -1,2 +1,6 @@
 # BSA2020_Team_Tissot
-Big-Scale Analytics - Team Tissot - Project 1
+Big-Scale Analytics 
+Project 1 
+Sentiment analysis using Google AutoML
+
+Team Tissot 
