@@ -4,7 +4,7 @@ Big-Scale Analytics
 
 Project 1 
 
-Sentiment analysis using Google AutoML
+Sentiment analysis using Google AutoML Natural Language
 
 
 Team Tissot 
