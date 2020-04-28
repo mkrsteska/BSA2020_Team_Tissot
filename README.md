@@ -1,4 +1,4 @@
-# BSA2020_Team_Tissot
+# BSA2020_Team_Tissot_Project1
 
 Big-Scale Analytics 
 
